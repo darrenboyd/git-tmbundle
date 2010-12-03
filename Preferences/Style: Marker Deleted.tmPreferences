@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Marker Deleted</string>
+	<key>scope</key>
+	<string>meta.diff.marker.deleted</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#FF3D3D</string>
+		<key>foreground</key>
+		<string>#FF3D3D</string>
+	</dict>
+	<key>uuid</key>
+	<string>97F9A920-4C63-4F79-B775-A3DA97BA40F6</string>
+</dict>
+</plist>

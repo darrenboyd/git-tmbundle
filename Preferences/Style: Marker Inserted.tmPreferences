@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Marker Inserted</string>
+	<key>scope</key>
+	<string>meta.diff.marker.inserted</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#73FF65</string>
+		<key>foreground</key>
+		<string>#73FF65</string>
+	</dict>
+	<key>uuid</key>
+	<string>46E32A9F-96D0-4E74-92FB-CE27B4F25B9E</string>
+</dict>
+</plist>

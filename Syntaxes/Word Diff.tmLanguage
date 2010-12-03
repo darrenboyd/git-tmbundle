@@ -121,14 +121,40 @@
 			<string>meta.diff.range.unified</string>
 		</dict>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>meta.diff.marker.inserted</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>meta.diff.marker.inserted</string>
+				</dict>
+			</dict>
 			<key>match</key>
-			<string>\{\+.*\+\}</string>
+			<string>(\{\+).*(\+\})</string>
 			<key>name</key>
 			<string>markup.inserted.diff</string>
 		</dict>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>meta.diff.marker.deleted</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>meta.diff.marker.deleted</string>
+				</dict>
+			</dict>
 			<key>match</key>
-			<string>\[\-.*\-\]</string>
+			<string>(\[\-).*(\-\])</string>
 			<key>name</key>
 			<string>markup.deleted.diff</string>
 		</dict>

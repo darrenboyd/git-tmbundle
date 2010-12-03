@@ -4,12 +4,12 @@
 <dict>
 	<key>contactName</key>
 	<string>James Conroy-Finn</string>
-	<key>description</key>
-	<string>Distributed version control used by Linux kernel developers.</string>
 	<key>deleted</key>
 	<array>
 		<string>9CAC009F-9536-4FB3-96E5-84813C4A71F8</string>
 	</array>
+	<key>description</key>
+	<string>Distributed version control used by Linux kernel developers.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -133,6 +133,14 @@
 		<string>1D25F132-718E-4B97-95CC-724AAC35E46C</string>
 		<string>1C12DE42-78A9-4DCA-BB55-2B8E6328C72D</string>
 		<string>0DBC221A-B726-4367-A5E1-04AB999F8CC2</string>
+		<string>E0901B2E-8953-4A2F-A872-8DBE1A047370</string>
+		<string>788E90BA-53D0-46BE-BD15-752D565BD216</string>
+		<string>97F9A920-4C63-4F79-B775-A3DA97BA40F6</string>
+		<string>DA7A1854-8392-42FC-A015-AE6D4DC1EF7C</string>
+		<string>06597AEA-7368-49B7-B596-D5E46B2ABD95</string>
+		<string>46E32A9F-96D0-4E74-92FB-CE27B4F25B9E</string>
+		<string>9DCF9657-3853-416E-83B5-1864FDA6D834</string>
+		<string>973F7479-BA38-4FB6-8379-3B06AC69FE79</string>
 	</array>
 	<key>uuid</key>
 	<string>EADD4718-EE11-4ABF-A7E6-13351FB3799D</string>
