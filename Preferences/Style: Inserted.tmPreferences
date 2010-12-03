@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Inserted</string>
+	<key>scope</key>
+	<string>markup.inserted</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#73FF65</string>
+		<key>foreground</key>
+		<string>#000000</string>
+	</dict>
+	<key>uuid</key>
+	<string>06597AEA-7368-49B7-B596-D5E46B2ABD95</string>
+</dict>
+</plist>
